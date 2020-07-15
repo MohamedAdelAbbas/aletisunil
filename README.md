@@ -1,7 +1,7 @@
 
 
 
-<p align="center"><img src="https://github.com/aletisunil/aletisunil/blob/master/IMG_0288.gif"/></p>
+<p align="center"><img width="100% src="https://github.com/aletisunil/aletisunil/blob/master/IMG_0288.gif" style="max-width:100%"/></p>
 
 <!--
 **aletisunil/aletisunil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
