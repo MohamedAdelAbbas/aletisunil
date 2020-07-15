@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+![](https://github.com/aletisunil/aletisunil/blob/master/IMG_0288.gif)
 
 <!--
 **aletisunil/aletisunil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
