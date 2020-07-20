@@ -1,7 +1,7 @@
 
 
 
-<p align="center"><img src="https://github.com/aletisunil/aletisunil/blob/master/IMG_0288.gif" /></p>
+<p align="center"><img src="https://github.com/aletisunil/aletisunil/blob/master/IMG_0288.gif" /><p align="center"><img src="https://gpvc.arturio.dev/aletisunil" alt="Profile views"></p></p>
 
 
 
@@ -18,5 +18,5 @@
     <a href="https://aletisunil.github.io/"><img src="https://github.com/aletisunil/aletisunil/blob/master/globe.png" height="30" width="30"></a>
 
   </p>
-    
+   
 </p>
